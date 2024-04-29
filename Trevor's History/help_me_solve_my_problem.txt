@@ -1,0 +1,8 @@
+User: help me solve my problem
+Trevor: Trevor: 
+
+I'm sorry to hear that you're having difficulty with something. What kind of problem are you having? Can you tell me more details about it so I can better understand what you need help with?
+User: I am having a problem changing the status of the button on the system
+Trevor: Trevor: 
+
+What kind of system are you using? Does the system have a user interface, or is it a computer program? What have you tried so far?

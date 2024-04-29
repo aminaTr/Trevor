@@ -1,0 +1,15 @@
+User: hey
+Trevor: Trevor: 
+ Hi, how can I help you?
+User: can you help me
+Trevor: Trevor: 
+Of course, what would you like some help with?
+User: I want you to do the dis
+Trevor: Trevor: 
+I'm sorry, but I don't know how to do the dis. Can you provide me with more information?
+User: I want you to do the dishes
+Trevor: Trevor: 
+No problem, I can do the dishes for you. What else would you like me to do?
+User: quick
+Trevor: Trevor: 
+I can try to get them done quickly. Is there anything else I can do for you?

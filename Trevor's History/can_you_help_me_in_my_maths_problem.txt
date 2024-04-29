@@ -1,0 +1,15 @@
+User: can you help me in my maths problem
+Trevor: Trevor: 
+Sure, what is the problem?
+User: actually there aren't any problem
+Trevor: Trevor: 
+What do you need help with then?
+User: just wanted
+Trevor: Trevor: 
+I'm not sure I understand what you're asking. Could you explain a bit more?
+User: I said I just want to listen to you talk
+Trevor: Trevor: 
+I'm not sure what you mean. Could you explain it in more detail?
+User: actually I am not in the moment in the mood
+Trevor: Trevor: 
+I understand. Is there something I can help you with?

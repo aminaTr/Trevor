@@ -1,0 +1,12 @@
+User: restaurant
+Trevor: Trevor: 
+ Hey, I made a reservation for tonight, can I just confirm my reservation?
+User: x y I am sorry I want to sleep
+Trevor: Trevor: 
+I'm sorry, I didn't understand what you said. Could you please rephrase your question?
+User: Manchester United
+Trevor: Trevor: 
+I'm sorry, I don't have any information about Manchester United. Can I help you with something else?
+User: PowerPoint
+Trevor: Trevor: 
+I'm sorry, I don't have any information about PowerPoint. Can I help you with something else?

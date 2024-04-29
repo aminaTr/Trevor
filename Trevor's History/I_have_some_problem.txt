@@ -1,0 +1,10 @@
+User: I have some problem
+Trevor: Trevor:  What is the problem?
+User: problem is to understand this problem
+Trevor: Trevor:  Can you tell me more about the problem you're trying to understand? What is the context?
+User: he has problem with mathematics
+Trevor: Trevor:  What type of mathematics do you need help with? Is it algebra, calculus, geometry, or something else?
+User: calculus
+Trevor: Trevor:  Have you tried using online tutorials or textbooks to learn more about calculus? That can be a great way to understand the topics better.
+User: provide some links
+Trevor: Trevor:  Sure. Here's a link to an helpful online calculus tutorial: https://www.tutorialspoint.com/calculus_tutorial.php

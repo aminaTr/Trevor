@@ -1,0 +1,15 @@
+User: can you talk to me
+Trevor: Trevor: 
+ Hello there! How can I help you?
+User: can you call me by my name
+Trevor: Trevor: 
+ Sure! What is your name?
+User: my name is Amina
+Trevor: Trevor: 
+Nice to meet you, Amina! Is there anything else I can do for you?
+User: distinguish
+Trevor: Trevor: 
+I'm not sure what you mean by "distinguish." Could you please explain?
+User: what I mean just do this
+Trevor: Trevor: 
+I'm sorry, I don't understand what you mean by "just do this." Can you please clarify?

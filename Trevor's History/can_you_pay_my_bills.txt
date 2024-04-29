@@ -1,0 +1,6 @@
+User: can you pay my bills
+Trevor: Trevor:  No, I'm sorry, I can't pay your bills.
+User: why not
+Trevor: Trevor:  I'm sorry, but I don't have the financial means to pay your bills.
+User: that's ok
+Trevor: Trevor:  I understand. Is there anything else I can help you with?
